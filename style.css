@@ -6,7 +6,7 @@
 }
 .block{
     background-color:black;
-    height: 170%;
+    height: 160%;
     width: 99%;
     display: flex;
     z-index: 4;
@@ -305,11 +305,11 @@
     height: 150px;
     width: 150px;
     border-radius: 50%;
-    -webkit-border-radius:;
+    -webkit-border-radius: 50%;
     z-index: 1;
-    -moz-border-radius:;
-    -ms-border-radius:;
-    -o-border-radius:;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
     position: relative;
 }
 .flex-item2 div{
@@ -332,10 +332,10 @@
     width: 150px;
     border-radius: 50%;
     position: relative;
-    -webkit-border-radius:;
-    -moz-border-radius:;
-    -ms-border-radius:;
-    -o-border-radius:;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
 }
 .flex-item3 div{
     padding-left: 20px;
@@ -357,10 +357,10 @@
     width: 150px;
     border-radius: 50%;
     position: relative;
-    -webkit-border-radius:;
-    -moz-border-radius:;
-    -ms-border-radius:;
-    -o-border-radius:;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
 }
 .flex-item4 div{
     padding-left: 20px;
@@ -382,10 +382,10 @@
     width: 150px;
     border-radius: 50%;
     position: relative;
-    -webkit-border-radius:;
-    -moz-border-radius:;
-    -ms-border-radius:;
-    -o-border-radius:;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
 }
 .flex-item5 div{
     padding-left: 20px;
@@ -407,10 +407,10 @@
     width: 150px;
     border-radius: 50%;
     position: relative;
-    -webkit-border-radius:;
-    -moz-border-radius:;
-    -ms-border-radius:;
-    -o-border-radius:;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
 }
 .flex-item6 div{
     padding-left: 20px;
